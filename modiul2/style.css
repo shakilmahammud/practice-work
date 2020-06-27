@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style-type: none;
+}
+.wrapper{
+    width: 1120px;
+    margin: 0 auto;
+}
+#head h3{
+    text-align: center;
+    border:3px solid #c04;
+    margin-top: 30px;
+}
+.box{
+    border:2px solid #c04;
+    border-radius: 15px;
+    margin: 30px;
+    margin-bottom:0;
+    padding:30px;
+    width: 220px;
+    float: left;
+    text-align: center;
+}
+.box h3{
+    border-bottom:3px solid #c04;
+}
+.box p{
+    font-size: 16px;
+}
+.box img{
+    border-radius:50%;
+    width: 210px;
+    height: 205px;
+    text-align: center;
+    margin-top: 10px;
+}
